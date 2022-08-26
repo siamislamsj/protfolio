@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiadong He on Ryan Benmalek</title>
+    <link>https://ryanai3.github.io/authors/xiadong-he/</link>
+    <description>Recent content in Xiadong He on Ryan Benmalek</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Mon, 18 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://ryanai3.github.io/authors/xiadong-he/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Neural Painter - Multi Turn Image generation</title>
+      <link>https://ryanai3.github.io/publication/painter/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryanai3.github.io/publication/painter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

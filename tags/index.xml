@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Ryan Benmalek</title>
+    <link>https://ryanai3.github.io/tags/</link>
+    <description>Recent content in Tags on Ryan Benmalek</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Tue, 18 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://ryanai3.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Machine Translation</title>
+      <link>https://ryanai3.github.io/tags/machine-translation/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryanai3.github.io/tags/machine-translation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLP</title>
+      <link>https://ryanai3.github.io/tags/nlp/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryanai3.github.io/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Question Generation</title>
+      <link>https://ryanai3.github.io/tags/question-generation/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryanai3.github.io/tags/question-generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Summarization</title>
+      <link>https://ryanai3.github.io/tags/summarization/</link>
+      <pubDate>Tue, 18 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryanai3.github.io/tags/summarization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer Vision</title>
+      <link>https://ryanai3.github.io/tags/computer-vision/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryanai3.github.io/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GAN</title>
+      <link>https://ryanai3.github.io/tags/gan/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ryanai3.github.io/tags/gan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
